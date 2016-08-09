@@ -24,11 +24,9 @@
     "minifier"
   ],
   "dependencies": {
-    "browserify-transform-tools": "^1.6.0",
     "promise-modules-list": "^1.0.0",
     "replacestream": "^4.0.0",
-    "stream-combiner2": "^1.1.1",
-    "stream-replace": "^1.0.0"
+    "stream-combiner2": "^1.1.1"
   },
   "devDependencies": {
     "ava": "^0.15.2",

@@ -1,6 +1,5 @@
 {
   "plugins": [
-    "transform-async-to-generator",
     "transform-strict-mode",
     "transform-es2015-destructuring",
     "transform-es2015-parameters"
