@@ -1,6 +1,6 @@
 # promise-exterminator
 
-Remove Promise polyfills from your Javascript source code.
+Remove Promise polyfill requires from your Javascript source code.
 
 [![npm](https://img.shields.io/npm/v/promise-exterminator.svg?style=flat-square)](https://www.npmjs.com/package/promise-exterminator)
 [![Build Status](https://img.shields.io/travis/seangenabe/promise-exterminator/master.svg?style=flat-square)](https://travis-ci.org/seangenabe/promise-exterminator)

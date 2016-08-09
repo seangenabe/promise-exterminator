@@ -1,7 +1,7 @@
 {
   "name": "promise-exterminator",
   "version": "1.0.0-1",
-  "description": "",
+  "description": "Remove Promise polyfill requires from your Javascript source code.",
   "scripts": {
     "build": "babel lib --out-dir dist",
     "test": "ava test/*.test.js"
