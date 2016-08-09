@@ -1,0 +1,45 @@
+{
+  "name": "promise-exterminator",
+  "version": "1.0.0-1",
+  "description": "",
+  "scripts": {
+    "build": "babel lib --out-dir dist",
+    "test": "ava test/*.test.js"
+  },
+  "homepage": "https://github.com/seangenabe/promise-exterminator",
+  "author": "Sean Genabe <seangenabe@outlook.com>",
+  "repository": "seangenabe/promise-exterminator",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "main": "dist/index.js",
+  "keywords": [
+    "promise",
+    "browserify-transform",
+    "minify",
+    "transform",
+    "browserify",
+    "minifier"
+  ],
+  "dependencies": {
+    "browserify-transform-tools": "^1.6.0",
+    "promise-modules-list": "^1.0.0",
+    "replacestream": "^4.0.0",
+    "stream-combiner2": "^1.1.1",
+    "stream-replace": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "babel-cli": "^6.11.4",
+    "babel-plugin-transform-es2015-destructuring": "^6.9.0",
+    "babel-plugin-transform-es2015-parameters": "^6.11.4",
+    "babel-plugin-transform-strict-mode": "^6.11.3"
+  },
+  "ava": {
+    "files": [
+      "test/*.test.js"
+    ],
+    "failFast": true
+  }
+}
