@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "ava": "^0.17.0",
-    "babel-cli": "^6.11.4",
+    "babel-cli": "^6.22.1",
     "babel-plugin-transform-es2015-destructuring": "^6.9.0",
     "babel-plugin-transform-es2015-parameters": "^6.11.4",
     "babel-plugin-transform-strict-mode": "^6.11.3"
