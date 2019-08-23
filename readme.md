@@ -1,5 +1,7 @@
 # promise-exterminator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seangenabe/promise-exterminator.svg)](https://greenkeeper.io/)
+
 Remove Promise polyfill requires from your Javascript source code.
 
 [![npm](https://img.shields.io/npm/v/promise-exterminator.svg?style=flat-square)](https://www.npmjs.com/package/promise-exterminator)
